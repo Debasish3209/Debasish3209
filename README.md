@@ -22,8 +22,7 @@ Skills:
   
  [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />](mailto:nayakdebasish707@gmail.com)
 
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />](www.linkedin.com/in/debasish-nayak-844597226)
-
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />](https://www.linkedin.com/in/debasish-nayak-844597226/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bh2J7INObS9u0Pf8PN0zC4g%3D%3D)
 </div>
 
 ###
