@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm  Debasish Nayak</h2>
-<h4 align="left">I'm a passionate MCA student with a keen interest in Website development and a love for exploring new destinations.</h6>
+<h4 align="left">🚀 Passionate about building scalable, secure, and high-performance applications using Java, Spring Boot, and Microservices. I love solving complex problems, optimizing system performance, and implementing clean architecture.</h6>
 
 
 
