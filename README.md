@@ -1,5 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Debasish Nayak</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;Scalable+%26+High-Performance+Apps;Always+Learning+New+Things" alt="Typing Animation" />
+  </a>
+</p>
+
 <h3 align="center">🚀 Passionate about building scalable, secure, and high-performance applications using Java, Spring Boot, and Microservices</h3>
 
 <p align="left"> 
@@ -74,7 +81,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -97,6 +103,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=debasish3209&theme=tokyonight&margin-w=15&margin-h=15" alt="debasish3209" />
   </a> 
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Debasish3209/Debasish3209/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
