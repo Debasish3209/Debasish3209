@@ -107,8 +107,10 @@
 
 ---
 
+
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/Debasish3209/Debasish3209/blob/output/snake.svg)
+![Snake animation](https://github.com/Debasish3209/Debasish3209/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
