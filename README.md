@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debasish Nayak</h1>
+<h1 align="center">Hi there👋, I'm Debasish Nayak</h1>
 
 <!-- Typing Animation -->
 <p align="center">
