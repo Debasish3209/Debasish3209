@@ -15,8 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **MarketScribe**    
+### 👨‍💻 About Me    
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Debasish3209/Debasish3209)  
 - 💬 Ask me about **Java, Spring Boot, Microservices**  
 - 📫 Reach me at **debasishnayak3209@gmail.com**  
