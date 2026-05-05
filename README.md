@@ -1,121 +1,150 @@
-<h1 align="center">Hi there👋, I'm Debasish Nayak</h1>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Debasish%20Nayak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;Scalable+%26+High-Performance+Apps;Always+Learning+New+Things" alt="Typing Animation" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+REST+APIs;JWT+Security+%7C+DB+Optimization+%7C+Clean+Code;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-<h3 align="center">🚀 Passionate about building scalable, secure, and high-performance applications using Java, Spring Boot, and Microservices</h3>
+<br/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=debasish3209&label=Profile%20views&color=0e75b6&style=flat" alt="debasish3209" /> 
-</p>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=debasishnayak3209&label=Profile%20Views&color=00b4d8&style=flat-square" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/debasishnayak3209?label=Followers&style=flat-square&color=00b4d8" alt="followers" />
 
----
-
-### 👨‍💻 About Me    
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Debasish3209/Debasish3209)  
-- 💬 Ask me about **Java, Spring Boot, Microservices**  
-- 📫 Reach me at **debasishnayak3209@gmail.com**  
+</div>
 
 ---
 
-### 💡 What I Do
-- 🚀 Develop **RESTful APIs** and **microservices** using Spring Boot & Spring Cloud  
-- ⚡ Build **scalable** and **high-performance backend systems**  
-- 🔒 Implement **security, caching, and async processing** for optimized performance  
-- 🗄️ Work on **database optimization**, **JPA/Hibernate**, and **SQL tuning**  
+<!-- About Me Section -->
+<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+### 👨‍💻 About Me
+
+```java
+@Component
+public class DebasishNayak {
+
+    private final String role = "Java Backend Developer";
+    private final String[] focus = {
+        "Spring Boot", "Microservices",
+        "System Design", "Security"
+    };
+    
+    public String getCurrentStatus() {
+        return "Building scalable backend systems 🚀";
+    }
+    
+    public String getContact() {
+        return "debasishnayak3209@gmail.com";
+    }
+}
+```
+
+- 🔭 Currently working on **Microservices & Distributed Systems**
+- 🌱 Exploring **Cloud-native architecture & Kafka**
+- 💡 Passionate about **Performance Optimization & Security**
+- 📫 Reach me: **debasishnayak3209@gmail.com**
+- ⚡ Fun fact: I treat every API like a product shipped to millions
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Concepts & Architecture
+![Microservices](https://img.shields.io/badge/Microservices-00b4d8?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasish3209&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="debasish3209" />
-</p>
+## 🚀 Featured Projects
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasish3209&show_icons=true&locale=en&theme=tokyonight" alt="debasish3209" />
-</p>
+### 📝 MarketScribe — Content Management System
+> A full-featured CMS backend engineered for speed and security
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debasish3209&theme=tokyonight" alt="debasish3209" />
-</p>
+```
+✅ REST APIs with Spring Boot + JPA + MySQL
+✅ Role-Based Access Control (RBAC) with JWT Auth
+✅ Optimized queries with custom JPA repositories
+✅ API documentation via Swagger/OpenAPI
+```
 
----
+### 🏨 StayEase (Hotel-Hive) — Hotel Booking Backend
+> High-performance hotel booking system focused on reliability
 
-### 🏆 GitHub Achievements
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=debasish3209&theme=tokyonight&margin-w=15&margin-h=15" alt="debasish3209" />
-  </a> 
-</p>
-
----
-
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Debasish3209/Debasish3209/blob/output/github-contribution-grid-snake.svg)
-
+```
+✅ Scalable booking engine with conflict-free reservation logic
+✅ Efficient DB schema design for high-concurrency reads
+✅ API optimization — reduced response times by 40%
+✅ Clean service-layer architecture following SOLID principles
+```
 
 ---
 
-### 🌐 Connect with Me
-<div align="left">
-  
- [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />](mailto:nayakdebasish707@gmail.com)
+## ⚡ What I Do
 
- [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />](https://www.linkedin.com/in/debasish-nayak-844597226/)
+<div align="center">
+
+| 🚀 | Develop REST APIs & Microservices with Spring Boot |
+|---|---|
+| ⚡ | Optimize DB queries & backend performance |
+| 🔒 | Implement JWT Security & OAuth2 Authentication |
+| 🧠 | Design clean, scalable service-layer architecture |
+| 🐳 | Containerize services with Docker |
+| 📐 | Apply SOLID principles & Design Patterns |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasishnayak3209@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debasishnayak3209)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debasishnayak3209)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/debasishnayak3209)
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <i>⭐ If you like what I build, consider starring some repos! ⭐</i>
 </div>
