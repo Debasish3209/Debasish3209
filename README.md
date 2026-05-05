@@ -26,7 +26,7 @@
 
 ```java
 @Component
-public class DebasishNayak {
+public class Debasish Nayak {
 
     private final String role = "Java Backend Developer";
     private final String[] focus = {
